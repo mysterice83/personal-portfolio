@@ -1,0 +1,112 @@
+body {
+    font-family: Roboto, sans-serif;
+    background-image: url('https://t4.ftcdn.net/jpg/02/66/79/63/240_F_266796391_7pn0tM2TjnYkDNwfQyoQeoeFElL1vqjs.jpg');
+  }
+  
+  header {
+    padding: 20px 0;
+  }
+  
+  header .row,
+  footer .row {
+    display: flex;
+    align-items: center;
+  }
+  
+  h1 {
+    font-weight: 700;
+    margin: 0;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  a {
+    padding: 0 20px;
+    margin: 0;
+  }
+  
+  .jumbotron {
+    display: flex;
+    align-items: center;
+    background-image: url('https://thumbs.dreamstime.com/b/html-css-code-developing-screenshot-abstract-software-developer-programming-close-up-computer-web-page-inside-file-177264982.jpg');
+    background-size: cover;
+    color: #ffffff;
+    height: 400px;
+  }
+  
+  .jumbotron h2 {
+    font-size: 60px;
+    font-weight: 700;
+    margin: 0;
+    color: #fff;
+  }
+  
+  .jumbotron h3 {
+    margin: 0 0 20px;
+    color: #fff;
+  }
+  
+  section .row img {
+    margin: 0 0 30px;
+    width: 100%;
+  }
+  
+  .col-md-6 {
+    margin: 0 0 30px;
+  }
+  
+  .btn.btn-primary {
+    border-radius: 2px;
+    border: 0px;
+    color: #fbd1d5;
+    background-color: #6a2ae0;
+  }
+  
+  .btn.btn-primary:hover {
+    color: #ffffff;
+    background-color: #6a2ae0;
+  }
+  
+  .btn-secondary {
+    background-color: #6a2ae0;
+    color: #ffffff;
+    margin: 0 0 30px;
+  }
+
+  .btn-tertiary {
+    background-color: #6a2ae0;
+    color: #ffffff;
+    margin: 10px 5px 30px;
+  }
+  
+  .portrait {
+    width:  350px;
+    height: 60%; //300px
+  }
+  
+  figure img {
+    width: 100%;
+    height: auto;
+  }
+  
+  figure {
+    margin-bottom: 30px;
+  }
+  
+  footer {
+    font-size: 12px;
+    padding: 20px 0;
+  }
+  
+  footer .col-sm-8 {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  footer ul {
+    list-style: none;
+  }
+  
